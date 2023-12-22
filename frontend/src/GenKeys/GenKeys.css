@@ -1,0 +1,6 @@
+.gradient-background {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    min-height: 100vh; /* Viewport height */
+    min-width: 100vw;  /* Viewport width */
+    /* Add more styling as needed */
+}

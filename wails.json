@@ -1,0 +1,12 @@
+{
+  "name": "wails_sigilix_interface",
+  "assetdir": "frontend/build",
+  "outputfilename": "wails_sigilix_interface",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "wailsjsdir": "./frontend",
+  "author": {
+    "name": "LoopRich161",
+    "email": "looprich161@mail.ru"
+  }
+}
